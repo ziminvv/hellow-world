@@ -1,2 +1,2 @@
 # hellow-world
-Description of hllow-world
+Description of hellow-world
